@@ -1,0 +1,9 @@
+.wrap {
+  display: flex;
+  align-items: center;
+}
+
+.user {
+  margin-right: 10px;
+  margin-left: 10px;
+}

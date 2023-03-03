@@ -1,0 +1,24 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+  margin: 0;
+
+  font-family: -apple-system, 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+.active {
+  color: white !important;
+  border: 2px solid white !important;
+  box-shadow: 0px 4px 20px rgba(255, 255, 255, 0.6);
+}
